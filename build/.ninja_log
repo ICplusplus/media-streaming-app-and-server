@@ -1,9 +1,0 @@
-# ninja log v5
-331	439	7370723527701545	MediaStreamerClient.exe	36585b4143536029
-13	27	0	clean	9c4b4372737ab8da
-326	439	7370723527701545	MediaStreamerServer.exe	a67ea5db63f52d83
-4	336	7370739456335398	CMakeFiles/MediaStreamerClient.dir/Client/src/main.cpp.obj	ba4988931ffb4f17
-338	438	7370739457322846	Client/bin/MediaStreamerClient.exe	cdc48fcab631ad63
-21	132	7370740704295624	C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/Server/bin/MediaStreamerServer.exe	e524583f818d6bed
-15	356	7370739694716466	CMakeFiles/MediaStreamerServer.dir/Server/src/main.cpp.obj	c9cc8b5661b54a29
-357	464	7370739695765589	Server/bin/MediaStreamerServer.exe	9b97909e92d3d1de
