@@ -1,7 +1,12 @@
 [
 {
   "directory": "C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\MediaStreamer.dir\\main.cpp.obj -c \"C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\main.cpp\"",
-  "file": "C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\main.cpp"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\MediaStreamerClient.dir\\Client\\src\\main.cpp.obj -c \"C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\Client\\src\\main.cpp\"",
+  "file": "C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\Client\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\MediaStreamerServer.dir\\Server\\src\\main.cpp.obj -c \"C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\Server\\src\\main.cpp\"",
+  "file": "C:\\Users\\Ian Chapman\\Documents\\code projects\\media streaming app and server\\Server\\src\\main.cpp"
 }
 ]

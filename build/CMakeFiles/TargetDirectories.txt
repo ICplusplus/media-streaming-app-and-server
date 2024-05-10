@@ -26,7 +26,8 @@ C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/buil
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/ContinuousCoverage.dir
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/ContinuousMemCheck.dir
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/ContinuousSubmit.dir
-C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/MediaStreamer.dir
+C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/MediaStreamerClient.dir
+C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/MediaStreamerServer.dir
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/package.dir
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/package_source.dir
 C:/Users/Ian Chapman/Documents/code projects/media streaming app and server/build/CMakeFiles/test.dir
