@@ -2,3 +2,5 @@ CMakeFiles
 build
 .vscode
 CMakeCache.txt
+LOCALCONFIG.config
+TODO.txt
