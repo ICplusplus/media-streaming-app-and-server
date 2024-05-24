@@ -85,8 +85,8 @@ int main(int, char**){
     char buffer[200];
     std::cout << "Responding...\n";
     int sbyteCount = send(acceptSocket, buffer, 200, 0);
-    if (sbyteCount = SOCKET_ERROR) {
-        std::cout << "Response error: " << WSAGetLastError() << "/n";
+    if (sbyteCount == SOCKET_ERROR) {
+        std::cout << "Response error: " << WSAGetLastError() << "\n";
     } else {
         std::cout << "Response successful\n";
     }
